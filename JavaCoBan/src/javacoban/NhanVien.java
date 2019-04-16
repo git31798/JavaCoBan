@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Admin
  */
-public class NhanVien {
+public class NhanVien{
 
     private String tenString, diaChi;
     private int tuoi;
